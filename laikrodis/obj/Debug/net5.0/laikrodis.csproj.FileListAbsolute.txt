@@ -1,0 +1,16 @@
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.exe
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.deps.json
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.runtimeconfig.json
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.runtimeconfig.dev.json
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\bin\Debug\net5.0\laikrodis.pdb
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.csproj.AssemblyReference.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.AssemblyInfoInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.AssemblyInfo.cs
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.csproj.CoreCompileInputs.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\refint\laikrodis.dll
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.pdb
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\laikrodis.genruntimeconfig.cache
+C:\Users\vikto\OneDrive\Stalinis kompiuteris\uzduotys praktikai\riztech\laikrodis\laikrodis\obj\Debug\net5.0\ref\laikrodis.dll
